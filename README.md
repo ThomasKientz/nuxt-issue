@@ -25,4 +25,4 @@ It appears that Nuxt dependencies are conflicting with one of `firebase`'s depen
 
 This issue only happen after a clean reinstall of the dependencies (by deleting `/node_modules` and `package-lock.json` and running `npm i`), so it depends on how `package-lock.json` is constructed.
 
-I am using `npm`.
+I am using `npm 6.9.0`.
